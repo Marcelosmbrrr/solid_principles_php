@@ -1,0 +1,12 @@
+{
+    "name": "smbr/second_solid_principle",
+    "description": "Open Closed Principle",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}

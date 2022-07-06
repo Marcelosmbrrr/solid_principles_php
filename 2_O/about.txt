@@ -1,0 +1,2 @@
+Objects or entities must be open for extension, but closed for modification.
+When new features need to be added to the software, we must extend and not change the original source code.

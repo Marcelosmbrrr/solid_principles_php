@@ -1,0 +1,4 @@
+First princile of SOLID set is the "S", that means "Single Responsability Principle".
+This principle says that a class need to do just one thing, or have just one responsability.
+For example, a "RegisterPerson" class has one responsability, it is, register a person, and cant do another thing.
+Classes with multiples routines that is not directly related is a bad practice, and breaks the "S" principle of SOLID set.

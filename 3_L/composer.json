@@ -1,0 +1,7 @@
+{
+    "name": "smbr/third_solid_principle",
+    "description": "Liskov Substitution Principle",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}

@@ -1,0 +1,3 @@
+When class A uses some functionality of class B, then its said that class A has a dependency of class B.
+If class A receives the instance of class B by another entity, through his constructor, we call this dependency injection - or a inversion of controll made with dependency injection.
+If, otherwise, class B is created directly (hard code) inside the constructor of class A, both became inseparable, wich is a bad practice, and breaks with this principle.
