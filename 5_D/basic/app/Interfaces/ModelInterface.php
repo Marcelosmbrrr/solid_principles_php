@@ -8,9 +8,9 @@ interface ModelInterface {
 
     public function findOne($id) : void;
 
-    public function create(array $data) : void;
+    public function create($data) : void;
 
-    public function update(array $data) : void;
+    public function update($data, $id) : void;
 
     public function delete($id) : void;
 

@@ -12,6 +12,7 @@ use App\PersonModel;
 */
 
 $personController = new PersonController(new PersonModel());
+
 $personController->store([
     "name" => "James", 
     "sex" => "Male", 
